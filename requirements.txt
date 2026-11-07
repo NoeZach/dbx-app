@@ -1,0 +1,5 @@
+databricks-sdk
+databricks-sql-connector
+streamlit
+pandas
+plotly>=5.24
